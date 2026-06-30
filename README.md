@@ -15,9 +15,9 @@ Leave-One-Subject-Out (LOSO) L1-SVM classification framework.
 ## Repository Structure
 ├── notebook.ipynb        # Main analysis pipeline
 ├── requirements.txt      # Python dependencies
-├── results/              # Classification outputs (Excel, figures)
-│   ├── Univariate/
-│   ├── Bivariate/
+├── Results/              # Classification outputs (Excel, figures)
+│   ├── Univariate EEG/
+│   ├── Bivariate EEG/
 │   ├── Multimodal/
 │   └── NP_Features/
 └── data/                 # NOT included (patient data, confidential)
