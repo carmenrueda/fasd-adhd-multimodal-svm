@@ -13,6 +13,7 @@ of Fetal Alcohol Spectrum Disorder (FASD) and Attention-Deficit/Hyperactivity Di
 Leave-One-Subject-Out (LOSO) L1-SVM classification framework.
 
 ## Repository Structure
+```
 ├── notebook.ipynb        # Main analysis pipeline
 ├── requirements.txt      # Python dependencies
 ├── Results/              # Classification outputs (Excel, figures)
@@ -21,7 +22,7 @@ Leave-One-Subject-Out (LOSO) L1-SVM classification framework.
 │   ├── Multimodal/
 │   └── NP_Features/
 └── data/                 # NOT included (patient data, confidential)
-
+```
 ## Methods Summary
 
 - **Sample:** 40 children aged 8–16 (20 FASD, 20 ADHD)
