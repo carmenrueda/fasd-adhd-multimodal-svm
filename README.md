@@ -17,10 +17,11 @@ Leave-One-Subject-Out (LOSO) L1-SVM classification framework.
 ├── notebook.ipynb        # Main analysis pipeline
 ├── requirements.txt      # Python dependencies
 ├── Results/              # Classification outputs (Excel, figures)
-│   ├── Univariate EEG/
-│   ├── Bivariate EEG/
-│   ├── Multimodal/
-│   └── NP_Features/
+│   ├── Single-family EEG/
+│   ├── Paired-family EEG/
+│   ├── Multimodal EEG+NP/
+│   └── NP Features/
+    └── AUC bootstrap comparisons.xlsx
 └── data/                 # NOT included (patient data, confidential)
 ```
 
