@@ -36,12 +36,9 @@ This repository contains the analysis code and model outputs for a study testing
 
 ## Data Availability
 
-Raw EEG and neuropsychological data are not publicly available due to 
-participant confidentiality. To run the notebook, set the environment variable:
+Raw EEG and neuropsychological data are not publicly available due to participant confidentiality. Fully anonymised feature matrices are available from the corresponding author upon reasonable request, subject to approval by the institutional ethics committee.
 
-```bash
-export FASD_ADHD_DATA=/path/to/your/data
-```
+To run the notebook with your own data, place the input files in the subfolders expected by Section 1 and set `BASE_DIR` there.
 
 ## Requirements
 
