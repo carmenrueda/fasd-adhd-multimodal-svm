@@ -6,7 +6,7 @@ This repository contains the analysis code and model outputs for a study testing
 
 ## Repository Structure
 ```text
-├── notebook.ipynb                      # Main analysis pipeline
+├── main.ipynb                          # Main analysis pipeline
 ├── requirements.txt                    # Python dependencies
 ├── LICENSE
 ├── Results/
